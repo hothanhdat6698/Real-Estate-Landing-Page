@@ -595,6 +595,11 @@ a {
     width: 28px;
     height: 28px;
     border-radius: 3px;
+    background: #f9f9f9;
+}
+
+.footer .socila-link + .socila-link {
+    margin-left: 16px;
 }
 
 .footer .socila-link:hover {
